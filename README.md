@@ -36,12 +36,6 @@ Demonstrating image preprocessing and real-time UI tuning.
 Quick prototyping for edge- and contour-based object detection.
 
 🔧 Installation
-Clone the repo:
-
-bash
-git clone https://github.com/yourusername/object-detection-streamlit.git
-cd object-detection-streamlit
-Install dependencies:
 
 bash
 pip install -r requirements.txt
