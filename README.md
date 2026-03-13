@@ -27,6 +27,7 @@ Streamlit
 PIL (Pillow)
 
 NumPy
+0
 
 🌟 Use Cases
 Learning and teaching computer vision fundamentals.
