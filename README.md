@@ -1,4 +1,4 @@
-Advanced Object Detection with Canny Edges & Contours - Streamlit 
+Advanced Object Detection with Canny Edges & Contours - Streamlit App
 🚀 Overview
 This interactive Streamlit web application demonstrates advanced object detection using Canny edge detection, Gaussian blur, and contour analysis—all powered by Python and OpenCV. Effortlessly upload your images, adjust detection thresholds, and visualize objects with bounding boxes and detailed statistics—all in real-time.
 
